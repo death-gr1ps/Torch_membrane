@@ -1,2 +1,2 @@
 # Torch_membrane
- These notebooks dedicated to elastic energy calculation during cell membrane fusion process.
+ These notebooks dedicated to elastic energy calculation during lipid membrane fusion process.
